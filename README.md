@@ -1,4 +1,4 @@
-# Exploratory Data Analysis using SQL
+# Global Pandemic Layoffs using SQL
 ## Project Objective
 - Analyzing the previously transformed dataset to get the insights about the pandamic layoffs based on company,year,country etc...
 
